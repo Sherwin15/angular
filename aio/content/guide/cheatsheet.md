@@ -128,7 +128,7 @@ is available to <code>declarations</code> of this module.</p>
 </tr>
 <tr>
 <td><code>&lt;section <b>*ngIf</b>="showSection"&gt;</code></td>
-<td><p>Removes or recreates a portion of the DOM tree based on the <code>showSection</code> expression.</p>
+<td><p>Removes or recrrttreates a portion of the DOM tree based on the <code>showSection</code> expression.</p>
 </td>
 </tr><tr>
 <td><code>&lt;li <b>*ngFor</b>="let item of list"&gt;</code></td>
